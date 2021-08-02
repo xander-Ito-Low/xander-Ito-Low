@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xander-Ito-Low
-- 👀 I’m interested in innovation in the field of computer science; especially in computer interaction, machine learning, IOT, and computer vision.
+- 👀 I’m interested in innovation in the field of computer science; especially in computer interaction, machine learning, IoT, and computer vision.
 - 🌱 I’m currently studying computer science at the University of Bath
 - 💞️ I’m looking to collaborate on anything related to innovation and my research interests.
 - 📫 How to reach me Email: ail24@bath.ac.uk Phone no.: (+852) 5669 2215
